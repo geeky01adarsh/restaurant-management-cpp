@@ -1,4 +1,4 @@
-# returant-management-cpp
+# restaurant-management-cpp
 This is a console-based restaurant management system.
 ![image](https://github.com/geeky01adarsh/returant-management-cpp/assets/74068552/ee029992-3fed-445a-bd24-8ab264ab6d26)
 
